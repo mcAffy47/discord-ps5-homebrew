@@ -62,3 +62,9 @@ No native Discord gateway/voice session, Opus transport, or Discord voice encryp
 - [Contribution guide](CONTRIBUTING.md)
 - [Third-party sources](THIRD_PARTY_NOTICES.md)
 - [License](LICENSE)
+
+Earlier QR login test
+
+I successfully completed a QR-code login during an earlier test. 
+This was a manual result from a previous development stage, not verification of V21’s current device-authorization implementation. 
+It also does not confirm native Discord voice-channel joining on PS5.
