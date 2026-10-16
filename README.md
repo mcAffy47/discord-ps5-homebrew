@@ -62,5 +62,3 @@ No native Discord gateway/voice session, Opus transport, or Discord voice encryp
 - [Contribution guide](CONTRIBUTING.md)
 - [Third-party sources](THIRD_PARTY_NOTICES.md)
 - [License](LICENSE)
-
-Keep PS SAVEDATA, Firefox PS5 and other projects separate from this project. No credentials are required to browse or test the UI. Never commit Discord client secrets, tokens or private configuration.
